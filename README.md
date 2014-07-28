@@ -1,4 +1,4 @@
-bootstrap-community
+Boostrap Installer
 ===================
 
-A template for starting a community website using the Bootstrap platform.
+An open-source Bootstrap auto-installer to easily deploy Bootstrap on your web environment.
